@@ -4,8 +4,11 @@
 % Informatics and Telecommunications (DI&T) of the National and Kapodistrian
 % University of Athens (NKUA).
 %
-% Copyright (c) 2014, 2015 Charalampos S. Nikolaou <charnik@di.uoa.gr>
-%
+% Copyright (c) 
+% 2014, 2015 Charalampos S. Nikolaou <charnik@di.uoa.gr>
+% 2017 Ergys Dona <errikosd@gmail.com>
+% 2020 Christina-Theano Kylafi <ct.kylafi@gmail.com>
+
 % This work may be distributed and/or modified under the conditions of the 
 % LaTeX Project Public License. The latest version of this license is in
 %   http://www.latex-project.org/lppl.txt.
