@@ -81,7 +81,7 @@
     \end{figure}
 
     
-    \subsection{Backprobagation}
+    \subsection{Backpropagation}
     Multi-layer networks use various techniques in order to learn, the most popular of which is backpropagation. In this technique, the values produced by the NN as the output are compared with the correct answer, to calculate the value of the error function. The error is then fed back through the network, giving the information needed in order for the weights of each connection to be adjusted, so as to reduce the value of that error function as much as possible. After a large number of training cycles(epochs), the network will usually converge to a state where the computational error is small, which means that the NN was well trained and has learned a target function. 
     
     For the proper adjustment of the weights, a general method for non-linear optimization is used, referred to as the gradient descent. The network computes the derivative of the error function with respect to the network weights and changes the weights so that the error decreases (which means going downhill on the surface of the error function). That is the reason why backpropagation can only be applied on NN's with differentiable activation functions.
